@@ -148,7 +148,7 @@ async def play(_, message: Message):
                     pass
                 except Exception:
                     await lel.edit(
-                        f"<b>🥺ᴀꜱꜱɪꜱᴛᴀɴᴛ ꜰᴀɪʟᴇᴅ ᴛᴏ ᴊᴏɪɴ ᴛʜɪꜱ ᴄʜᴀᴛ ᴩʟᴢ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ [🔥ᴏᴡɴᴇʀ🔥](@Alone_Shaurya_king)... ..."
+                        f"<b>🥺ᴀꜱꜱɪꜱᴛᴀɴᴛ ꜰᴀɪʟᴇᴅ ᴛᴏ ᴊᴏɪɴ ᴛʜɪꜱ ᴄʜᴀᴛ ᴩʟᴢ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ [🔥ᴏᴡɴᴇʀ🔥](@Srikanth_36)... ..."
                     )
     try:
         await USER.get_chat(chid)
