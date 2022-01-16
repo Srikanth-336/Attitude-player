@@ -39,4 +39,4 @@ Highly advanced Attitude music player
 
 ## .ᴅᴇᴩʟᴏy.
 
-[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ItsAttitudeking/Attitude-player)
+[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Srikanth-336/Attitude-player)
